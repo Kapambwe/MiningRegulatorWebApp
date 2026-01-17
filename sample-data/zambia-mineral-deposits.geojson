@@ -1,0 +1,472 @@
+{
+  "type": "FeatureCollection",
+  "name": "Zambia Mineral Deposits",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Konkola Deep",
+        "mineralType": "Copper",
+        "province": "Copperbelt",
+        "district": "Chililabombwe",
+        "discoveryYear": 1902,
+        "grade": 2.5,
+        "gradeUnit": "%",
+        "provenReserves": 15000000,
+        "probableReserves": 8000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Sulfide",
+        "depth": 1200,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.2871, -12.8406, 1200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Kansanshi",
+        "mineralType": "Copper,Gold",
+        "province": "Northwestern",
+        "district": "Solwezi",
+        "discoveryYear": 1899,
+        "grade": 2.8,
+        "gradeUnit": "%",
+        "provenReserves": 20000000,
+        "probableReserves": 12000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Oxide/Sulfide",
+        "depth": 450,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.4264, -12.0869, 1150]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Nchanga",
+        "mineralType": "Copper",
+        "province": "Copperbelt",
+        "district": "Chingola",
+        "discoveryYear": 1923,
+        "grade": 2.8,
+        "gradeUnit": "%",
+        "provenReserves": 18000000,
+        "probableReserves": 10000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Oxide/Mixed",
+        "depth": 800,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.8539, -12.5289, 1270]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Kagem Emerald",
+        "mineralType": "Emerald",
+        "province": "Copperbelt",
+        "district": "Ndola Rural",
+        "discoveryYear": 1976,
+        "grade": 15.5,
+        "gradeUnit": "carats/tonne",
+        "provenReserves": 500000,
+        "probableReserves": 300000,
+        "resourceUnit": "carats",
+        "geologicalFormation": "Miku Belt",
+        "oreType": "Beryl",
+        "depth": 150,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.3167, -13.5167, 1350]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Lumwana",
+        "mineralType": "Copper",
+        "province": "Northwestern",
+        "district": "Solwezi",
+        "discoveryYear": 2003,
+        "grade": 1.8,
+        "gradeUnit": "%",
+        "provenReserves": 12000000,
+        "probableReserves": 7000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Oxide",
+        "depth": 350,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.8333, -12.2167, 1180]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Mufulira",
+        "mineralType": "Copper,Cobalt",
+        "province": "Copperbelt",
+        "district": "Mufulira",
+        "discoveryYear": 1923,
+        "grade": 2.3,
+        "gradeUnit": "%",
+        "provenReserves": 10000000,
+        "probableReserves": 6000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Sulfide",
+        "depth": 950,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.2500, -12.5500, 1260]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Chambishi",
+        "mineralType": "Copper,Cobalt",
+        "province": "Copperbelt",
+        "district": "Chambishi",
+        "discoveryYear": 1965,
+        "grade": 2.4,
+        "gradeUnit": "%",
+        "provenReserves": 8000000,
+        "probableReserves": 5000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Sulfide",
+        "depth": 700,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0500, -12.6500, 1290]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Grizzly Emerald",
+        "mineralType": "Emerald",
+        "province": "Copperbelt",
+        "district": "Ndola Rural",
+        "discoveryYear": 1982,
+        "grade": 12.3,
+        "gradeUnit": "carats/tonne",
+        "provenReserves": 250000,
+        "probableReserves": 150000,
+        "resourceUnit": "carats",
+        "geologicalFormation": "Miku Belt",
+        "oreType": "Beryl",
+        "depth": 120,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.3089, -13.5234, 1345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Kalengwa",
+        "mineralType": "Copper",
+        "province": "Northwestern",
+        "district": "Mwinilunga",
+        "discoveryYear": 1972,
+        "grade": 2.1,
+        "gradeUnit": "%",
+        "provenReserves": 3000000,
+        "probableReserves": 2000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Sulfide",
+        "depth": 550,
+        "status": "Exploration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.4264, -11.7358, 1100]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Munali Nickel",
+        "mineralType": "Nickel,Cobalt",
+        "province": "Southern",
+        "district": "Mazabuka",
+        "discoveryYear": 1997,
+        "grade": 0.8,
+        "gradeUnit": "%",
+        "provenReserves": 2500000,
+        "probableReserves": 1500000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Munali Intrusion",
+        "oreType": "Laterite",
+        "depth": 80,
+        "status": "Development"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.7500, -15.8833, 1050]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Maamba Coal",
+        "mineralType": "Coal",
+        "province": "Southern",
+        "district": "Sinazongwe",
+        "discoveryYear": 1954,
+        "grade": 0,
+        "gradeUnit": "Kcal/kg",
+        "provenReserves": 25000000,
+        "probableReserves": 15000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Karoo Supergroup",
+        "oreType": "Bituminous",
+        "depth": 200,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.1667, -17.3667, 580]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Chantete Emerald",
+        "mineralType": "Emerald",
+        "province": "Copperbelt",
+        "district": "Ndola Rural",
+        "discoveryYear": 1985,
+        "grade": 14.1,
+        "gradeUnit": "carats/tonne",
+        "provenReserves": 200000,
+        "probableReserves": 120000,
+        "resourceUnit": "carats",
+        "geologicalFormation": "Miku Belt",
+        "oreType": "Beryl",
+        "depth": 140,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.3245, -13.5089, 1355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Kalumbila",
+        "mineralType": "Copper",
+        "province": "Northwestern",
+        "district": "Kalumbila",
+        "discoveryYear": 2005,
+        "grade": 1.6,
+        "gradeUnit": "%",
+        "provenReserves": 5000000,
+        "probableReserves": 3000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Oxide",
+        "depth": 280,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.9167, -12.0833, 1165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Luanshya",
+        "mineralType": "Copper",
+        "province": "Copperbelt",
+        "district": "Luanshya",
+        "discoveryYear": 1902,
+        "grade": 2.6,
+        "gradeUnit": "%",
+        "provenReserves": 4000000,
+        "probableReserves": 2500000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Sulfide",
+        "depth": 850,
+        "status": "Suspended"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.4167, -13.1333, 1240]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Bangweulu Gold",
+        "mineralType": "Gold",
+        "province": "Northern",
+        "district": "Mpika",
+        "discoveryYear": 2010,
+        "grade": 3.5,
+        "gradeUnit": "g/t",
+        "provenReserves": 500000,
+        "probableReserves": 300000,
+        "resourceUnit": "ounces",
+        "geologicalFormation": "Basement Complex",
+        "oreType": "Alluvial",
+        "depth": 50,
+        "status": "Exploration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.4500, -11.8333, 1380]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Kitwe Central",
+        "mineralType": "Copper,Cobalt",
+        "province": "Copperbelt",
+        "district": "Kitwe",
+        "discoveryYear": 1935,
+        "grade": 2.2,
+        "gradeUnit": "%",
+        "provenReserves": 7000000,
+        "probableReserves": 4000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Sulfide",
+        "depth": 720,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.2138, -12.8028, 1250]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Nchelenge Copper",
+        "mineralType": "Copper,Cobalt,Nickel",
+        "province": "Luapula",
+        "district": "Nchelenge",
+        "discoveryYear": 2015,
+        "grade": 1.4,
+        "gradeUnit": "%",
+        "provenReserves": 0,
+        "probableReserves": 0,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Lufilian Arc",
+        "oreType": "Oxide",
+        "depth": 0,
+        "status": "Exploration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.7369, -9.3450, 920]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Fwaya-Fwaya Emerald",
+        "mineralType": "Emerald",
+        "province": "Copperbelt",
+        "district": "Ndola Rural",
+        "discoveryYear": 1988,
+        "grade": 13.8,
+        "gradeUnit": "carats/tonne",
+        "provenReserves": 180000,
+        "probableReserves": 100000,
+        "resourceUnit": "carats",
+        "geologicalFormation": "Miku Belt",
+        "oreType": "Beryl",
+        "depth": 130,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.3123, -13.5301, 1348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Sentinel",
+        "mineralType": "Copper",
+        "province": "Northwestern",
+        "district": "Kalumbila",
+        "discoveryYear": 2009,
+        "grade": 1.5,
+        "gradeUnit": "%",
+        "provenReserves": 8000000,
+        "probableReserves": 5000000,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Katangan Sequence",
+        "oreType": "Oxide/Sulfide",
+        "depth": 400,
+        "status": "Producing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.8833, -12.0500, 1170]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "depositName": "Kabwe Lead-Zinc",
+        "mineralType": "Lead,Zinc,Vanadium",
+        "province": "Central",
+        "district": "Kabwe",
+        "discoveryYear": 1902,
+        "grade": 5.2,
+        "gradeUnit": "%",
+        "provenReserves": 0,
+        "probableReserves": 0,
+        "resourceUnit": "tonnes",
+        "geologicalFormation": "Basement Complex",
+        "oreType": "Carbonate",
+        "depth": 1500,
+        "status": "Closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.4414, -14.4414, 1174]
+      }
+    }
+  ]
+}
