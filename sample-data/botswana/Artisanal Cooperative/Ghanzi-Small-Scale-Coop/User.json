@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Ghanzi-Small-Scale-Coop)",
+    "Email": "admin@ghanzi-small-scale-coop.org",
+    "Role": "ASMOperator"
+  },
+  {
+    "DisplayName": "Staff User (Ghanzi-Small-Scale-Coop)",
+    "Email": "staff@ghanzi-small-scale-coop.org",
+    "Role": "ASMOperator"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "PACRA-VER-2024-001",
+    "companyRegistrationNumber": "119900001234",
+    "companyName": "Copper Resources Ltd",
+    "registrationDate": "2010-05-15",
+    "companyType": "Private Limited Company",
+    "status": "Active",
+    "isInLiquidation": false,
+    "registeredAddress": "Plot 123, Independence Avenue, Kitwe, Copperbelt Province",
+    "businessActivity": "Mining and Processing of Copper Ore",
+    "authorizedCapital": 50000000.00,
+    "paidUpCapital": 50000000.00,
+    "currency": "ZMW",
+    "directors": [
+      {
+        "name": "John Mwamba",
+        "nrc": "123456/78/1",
+        "nationality": "Zambian",
+        "appointmentDate": "2010-05-15",
+        "isActive": true
+      },
+      {
+        "name": "Sarah Katongo",
+        "nrc": "234567/89/1",
+        "nationality": "Zambian",
+        "appointmentDate": "2015-08-20",
+        "isActive": true
+      }
+    ],
+    "shareholders": [
+      {
+        "name": "Zambian Mining Holdings",
+        "shares": 60,
+        "type": "Institutional"
+      },
+      {
+        "name": "Local Investors Consortium",
+        "shares": 40,
+        "type": "Institutional"
+      }
+    ],
+    "lastAnnualReturn": "2024-05-15",
+    "verificationDate": "2024-12-15T10:30:00Z",
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "PACRA-VER-2024-002",
+    "companyRegistrationNumber": "119900005678",
+    "companyName": "Emerald Mining Corporation",
+    "registrationDate": "2012-03-10",
+    "companyType": "Public Limited Company",
+    "status": "Active",
+    "isInLiquidation": false,
+    "registeredAddress": "Plot 45, Church Road, Ndola, Copperbelt Province",
+    "businessActivity": "Gemstone Mining and Trading",
+    "authorizedCapital": 100000000.00,
+    "paidUpCapital": 75000000.00,
+    "currency": "ZMW",
+    "directors": [
+      {
+        "name": "Michael Banda",
+        "nrc": "345678/90/1",
+        "nationality": "Zambian",
+        "appointmentDate": "2012-03-10",
+        "isActive": true
+      },
+      {
+        "name": "Elizabeth Lungu",
+        "nrc": "456789/01/1",
+        "nationality": "Zambian",
+        "appointmentDate": "2012-03-10",
+        "isActive": true
+      },
+      {
+        "name": "Peter Smith",
+        "passport": "GB123456789",
+        "nationality": "British",
+        "appointmentDate": "2018-06-15",
+        "isActive": true
+      }
+    ],
+    "shareholders": [
+      {
+        "name": "International Gem Holdings",
+        "shares": 45,
+        "type": "Institutional"
+      },
+      {
+        "name": "Zambian Investment Fund",
+        "shares": 35,
+        "type": "Institutional"
+      },
+      {
+        "name": "Public Shareholders",
+        "shares": 20,
+        "type": "Public"
+      }
+    ],
+    "lastAnnualReturn": "2024-03-10",
+    "verificationDate": "2024-12-10T14:20:00Z",
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "PACRA-VER-2024-003",
+    "companyRegistrationNumber": "119900012345",
+    "companyName": "Zambezi Gold Mining",
+    "registrationDate": "2008-11-20",
+    "companyType": "Private Limited Company",
+    "status": "Active",
+    "isInLiquidation": false,
+    "registeredAddress": "Plot 789, Cairo Road, Lusaka",
+    "businessActivity": "Gold Mining and Exploration",
+    "authorizedCapital": 75000000.00,
+    "paidUpCapital": 75000000.00,
+    "currency": "ZMW",
+    "directors": [
+      {
+        "name": "David Phiri",
+        "nrc": "567890/12/1",
+        "nationality": "Zambian",
+        "appointmentDate": "2008-11-20",
+        "isActive": true
+      }
+    ],
+    "shareholders": [
+      {
+        "name": "David Phiri",
+        "shares": 100,
+        "type": "Individual"
+      }
+    ],
+    "lastAnnualReturn": "2024-11-20",
+    "verificationDate": "2024-12-12T09:15:00Z",
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "PACRA-VER-2024-004",
+    "companyRegistrationNumber": "119900045678",
+    "companyName": "Failed Mining Ventures Ltd",
+    "registrationDate": "2015-07-01",
+    "companyType": "Private Limited Company",
+    "status": "In Liquidation",
+    "isInLiquidation": true,
+    "liquidationDate": "2024-06-15",
+    "liquidator": "Mwanza & Associates Liquidators",
+    "registeredAddress": "Plot 234, Los Angeles Boulevard, Lusaka",
+    "businessActivity": "Mineral Exploration",
+    "authorizedCapital": 25000000.00,
+    "paidUpCapital": 15000000.00,
+    "currency": "ZMW",
+    "directors": [],
+    "shareholders": [],
+    "lastAnnualReturn": "2023-07-01",
+    "verificationDate": "2024-12-14T11:00:00Z",
+    "verificationStatus": "In Liquidation"
+  }
+]

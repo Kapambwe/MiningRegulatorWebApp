@@ -1,0 +1,126 @@
+[
+  {
+    "id": "EIA-2024-001",
+    "licenseNumber": "EL-2024-0456",
+    "applicantName": "Kopala Mining Ltd",
+    "projectName": "Chambishi Copper Exploration Project",
+    "projectLocation": "Copperbelt Province - Chambishi District",
+    "projectType": "Copper Exploration",
+    "submissionDate": "2024-01-15",
+    "zemaReferenceNumber": "ZEMA/EIA/2024/001",
+    "zemaDecisionDate": "2024-03-20",
+    "zemaDecision": "Approved with Conditions",
+    "status": "Approved",
+    "conditions": [
+      "Monthly water quality monitoring required",
+      "Quarterly environmental compliance reports",
+      "Community engagement program implementation"
+    ],
+    "environmentalOfficer": "Dr. Mary Mwape",
+    "estimatedProjectCost": 15000000,
+    "estimatedDuration": 24,
+    "documentsSubmitted": [
+      "Environmental Impact Statement",
+      "Baseline Environmental Study",
+      "Stakeholder Consultation Report",
+      "Environmental Management Plan"
+    ]
+  },
+  {
+    "id": "EIA-2024-002",
+    "licenseNumber": "ML-2023-0789",
+    "applicantName": "Luanshya Minerals Corp",
+    "projectName": "Baluba Gold Mining Operation",
+    "projectLocation": "Northwestern Province - Mwinilunga District",
+    "projectType": "Gold Mining",
+    "submissionDate": "2024-02-10",
+    "zemaReferenceNumber": "ZEMA/EIA/2024/002",
+    "zemaDecisionDate": null,
+    "zemaDecision": "Under Review",
+    "status": "Pending",
+    "conditions": [],
+    "environmentalOfficer": "Eng. Patrick Banda",
+    "estimatedProjectCost": 45000000,
+    "estimatedDuration": 60,
+    "documentsSubmitted": [
+      "Environmental Impact Statement",
+      "Baseline Environmental Study",
+      "Water Management Plan"
+    ]
+  },
+  {
+    "id": "EIA-2024-003",
+    "licenseNumber": "PL-2024-0123",
+    "applicantName": "Central Processing Co Ltd",
+    "projectName": "Kabwe Mineral Processing Facility",
+    "projectLocation": "Central Province - Kabwe District",
+    "projectType": "Mineral Processing",
+    "submissionDate": "2024-01-05",
+    "zemaReferenceNumber": "ZEMA/EIA/2024/003",
+    "zemaDecisionDate": "2024-02-28",
+    "zemaDecision": "Rejected",
+    "status": "Rejected",
+    "conditions": [],
+    "rejectionReasons": [
+      "Inadequate waste management plan",
+      "Proximity to residential areas not addressed",
+      "Air quality impact assessment insufficient"
+    ],
+    "environmentalOfficer": "Ms. Joyce Phiri",
+    "estimatedProjectCost": 8000000,
+    "estimatedDuration": 18,
+    "documentsSubmitted": [
+      "Environmental Impact Statement",
+      "Waste Management Plan"
+    ]
+  },
+  {
+    "id": "EIA-2024-004",
+    "licenseNumber": "EL-2024-0567",
+    "applicantName": "Solwezi Exploration Ventures",
+    "projectName": "Trident Copper-Cobalt Exploration",
+    "projectLocation": "Northwestern Province - Solwezi District",
+    "projectType": "Copper-Cobalt Exploration",
+    "submissionDate": "2024-03-01",
+    "zemaReferenceNumber": "ZEMA/EIA/2024/004",
+    "zemaDecisionDate": "2024-04-15",
+    "zemaDecision": "Approved",
+    "status": "Approved",
+    "conditions": [
+      "Biodiversity monitoring program required",
+      "Buffer zones around water sources enforced"
+    ],
+    "environmentalOfficer": "Mr. Joseph Mulenga",
+    "estimatedProjectCost": 12000000,
+    "estimatedDuration": 36,
+    "documentsSubmitted": [
+      "Environmental Impact Statement",
+      "Baseline Environmental Study",
+      "Stakeholder Consultation Report",
+      "Environmental Management Plan",
+      "Biodiversity Assessment"
+    ]
+  },
+  {
+    "id": "EIA-2024-005",
+    "licenseNumber": "ML-2024-0234",
+    "applicantName": "Kafue Resources Ltd",
+    "projectName": "Itezhi-Tezhi Gemstone Mining",
+    "projectLocation": "Southern Province - Itezhi-Tezhi District",
+    "projectType": "Gemstone Mining",
+    "submissionDate": "2024-02-20",
+    "zemaReferenceNumber": "ZEMA/EIA/2024/005",
+    "zemaDecisionDate": null,
+    "zemaDecision": "Under Review",
+    "status": "Pending",
+    "conditions": [],
+    "environmentalOfficer": "Dr. Elizabeth Sakala",
+    "estimatedProjectCost": 6500000,
+    "estimatedDuration": 12,
+    "documentsSubmitted": [
+      "Environmental Impact Statement",
+      "Social Impact Assessment",
+      "Community Engagement Plan"
+    ]
+  }
+]

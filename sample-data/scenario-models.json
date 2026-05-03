@@ -1,0 +1,74 @@
+[
+  {
+    "id": "scn-001",
+    "scenarioName": "Base Case - Current Operations",
+    "scenarioType": "BaseCase",
+    "description": "Continuation of current mining operations with existing production levels",
+    "inputParameters": {
+      "ProductionVolume": 125000,
+      "CopperPrice": 8500,
+      "OperatingCost": 6200,
+      "CapitalExpenditure": 5000000,
+      "DiscountRate": 10
+    },
+    "outputMetrics": {
+      "AnnualRevenue": 1062500000,
+      "AnnualProfit": 287500000,
+      "CumulativeProfit": 2300000000
+    },
+    "npv": 285000000,
+    "irr": 18.5,
+    "payback": 4.2,
+    "createdDate": "2026-01-15T00:00:00",
+    "createdBy": "Finance Team",
+    "status": "Completed"
+  },
+  {
+    "id": "scn-002",
+    "scenarioName": "Expansion Scenario",
+    "scenarioType": "BestCase",
+    "description": "Production expansion with new processing plant",
+    "inputParameters": {
+      "ProductionVolume": 180000,
+      "CopperPrice": 9000,
+      "OperatingCost": 6000,
+      "CapitalExpenditure": 15000000,
+      "DiscountRate": 10
+    },
+    "outputMetrics": {
+      "AnnualRevenue": 1620000000,
+      "AnnualProfit": 540000000,
+      "CumulativeProfit": 4320000000
+    },
+    "npv": 425000000,
+    "irr": 24.8,
+    "payback": 3.5,
+    "createdDate": "2026-01-20T00:00:00",
+    "createdBy": "Strategic Planning",
+    "status": "Completed"
+  },
+  {
+    "id": "scn-003",
+    "scenarioName": "Low Price Environment",
+    "scenarioType": "WorstCase",
+    "description": "Operations under sustained low commodity prices",
+    "inputParameters": {
+      "ProductionVolume": 125000,
+      "CopperPrice": 7000,
+      "OperatingCost": 6500,
+      "CapitalExpenditure": 5000000,
+      "DiscountRate": 10
+    },
+    "outputMetrics": {
+      "AnnualRevenue": 875000000,
+      "AnnualProfit": 62500000,
+      "CumulativeProfit": 500000000
+    },
+    "npv": 45000000,
+    "irr": 11.2,
+    "payback": 7.5,
+    "createdDate": "2026-01-22T00:00:00",
+    "createdBy": "Risk Management",
+    "status": "Completed"
+  }
+]

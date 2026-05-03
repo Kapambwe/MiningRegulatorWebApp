@@ -1,0 +1,18 @@
+﻿{
+  "Institution": "Durban-Port-Warehousing",
+  "Type": "Warehouse Company",
+  "Country": "south-africa",
+  "Permissions": [
+    "MRA.Access",
+    "MRA.Dashboard.View",
+    "MRA.Offtake.View",
+    "MRA.Offtake.VerifyQuality",
+    "MRA.Production.View",
+    "MRA.MineralTagging.View",
+    "MRA.MineralTagging.ViewInventory",
+    "Warehouse.*",
+    "MRA.Safety.View",
+    "MRA.LocalContent.View",
+    "MRA.Reporting.ViewReports"
+]
+}

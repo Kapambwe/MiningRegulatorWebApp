@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rpt-001",
+    "reportName": "Monthly Production Summary",
+    "reportType": "Production",
+    "description": "Comprehensive monthly production report across all mining licenses",
+    "dataSource": "ProductionDatabase",
+    "reportQuery": "SELECT * FROM Production WHERE Month = @Month",
+    "reportFormat": "PDF",
+    "createdBy": "Mining Commission",
+    "createdDate": "2025-12-01T00:00:00",
+    "isScheduled": true,
+    "scheduleFrequency": "Monthly",
+    "recipients": ["production@mrc.gov.zm", "director@mrc.gov.zm"],
+    "lastRun": "2026-02-01T08:00:00"
+  },
+  {
+    "id": "rpt-002",
+    "reportName": "Safety Incident Analysis",
+    "reportType": "Safety",
+    "description": "Detailed analysis of safety incidents with trend analysis",
+    "dataSource": "SafetyDatabase",
+    "reportQuery": "SELECT * FROM AccidentReports WHERE Quarter = @Quarter",
+    "reportFormat": "Excel",
+    "createdBy": "Safety Department",
+    "createdDate": "2025-11-15T00:00:00",
+    "isScheduled": true,
+    "scheduleFrequency": "Quarterly",
+    "recipients": ["safety@mrc.gov.zm", "compliance@mrc.gov.zm"],
+    "lastRun": "2026-01-05T09:00:00"
+  },
+  {
+    "id": "rpt-003",
+    "reportName": "Environmental Compliance Dashboard",
+    "reportType": "Environmental",
+    "description": "Real-time dashboard showing environmental compliance status",
+    "dataSource": "EnvironmentalDatabase",
+    "reportQuery": "SELECT * FROM EnvironmentalMetrics",
+    "reportFormat": "Dashboard",
+    "createdBy": "Environmental Unit",
+    "createdDate": "2026-01-10T00:00:00",
+    "isScheduled": false,
+    "scheduleFrequency": null,
+    "recipients": ["environmental@mrc.gov.zm"],
+    "lastRun": "2026-02-15T14:30:00"
+  }
+]

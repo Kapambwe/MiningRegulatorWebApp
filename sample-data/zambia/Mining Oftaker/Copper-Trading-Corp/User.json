@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Copper-Trading-Corp)",
+    "Email": "admin@copper-trading-corp.org",
+    "Role": "Offtaker"
+  },
+  {
+    "DisplayName": "Staff User (Copper-Trading-Corp)",
+    "Email": "staff@copper-trading-corp.org",
+    "Role": "Offtaker"
+  }
+]

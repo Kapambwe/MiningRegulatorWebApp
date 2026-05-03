@@ -1,0 +1,50 @@
+[
+  {
+    "month": "January 2026",
+    "environmentalCompliance": 92,
+    "safetyCompliance": 88,
+    "royaltyCompliance": 95,
+    "reportingCompliance": 90,
+    "licenseCompliance": 97
+  },
+  {
+    "month": "February 2026",
+    "environmentalCompliance": 93,
+    "safetyCompliance": 89,
+    "royaltyCompliance": 96,
+    "reportingCompliance": 91,
+    "licenseCompliance": 98
+  },
+  {
+    "month": "March 2026",
+    "environmentalCompliance": 94,
+    "safetyCompliance": 91,
+    "royaltyCompliance": 97,
+    "reportingCompliance": 93,
+    "licenseCompliance": 98
+  },
+  {
+    "month": "April 2026",
+    "environmentalCompliance": 91,
+    "safetyCompliance": 87,
+    "royaltyCompliance": 95,
+    "reportingCompliance": 89,
+    "licenseCompliance": 96
+  },
+  {
+    "month": "May 2026",
+    "environmentalCompliance": 95,
+    "safetyCompliance": 92,
+    "royaltyCompliance": 98,
+    "reportingCompliance": 94,
+    "licenseCompliance": 99
+  },
+  {
+    "month": "June 2026",
+    "environmentalCompliance": 96,
+    "safetyCompliance": 93,
+    "royaltyCompliance": 98,
+    "reportingCompliance": 95,
+    "licenseCompliance": 99
+  }
+]

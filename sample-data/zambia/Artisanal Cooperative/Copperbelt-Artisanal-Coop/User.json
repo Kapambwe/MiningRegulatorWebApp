@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Copperbelt-Artisanal-Coop)",
+    "Email": "admin@copperbelt-artisanal-coop.org",
+    "Role": "ASMOperator"
+  },
+  {
+    "DisplayName": "Staff User (Copperbelt-Artisanal-Coop)",
+    "Email": "staff@copperbelt-artisanal-coop.org",
+    "Role": "ASMOperator"
+  }
+]

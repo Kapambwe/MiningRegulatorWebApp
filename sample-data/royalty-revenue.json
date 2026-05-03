@@ -1,0 +1,56 @@
+[
+  {
+    "month": "January 2026",
+    "copper": 45000000,
+    "cobalt": 12000000,
+    "gold": 8500000,
+    "emeralds": 3200000,
+    "manganese": 1800000,
+    "total": 70500000
+  },
+  {
+    "month": "February 2026",
+    "copper": 48000000,
+    "cobalt": 13500000,
+    "gold": 9200000,
+    "emeralds": 3500000,
+    "manganese": 2000000,
+    "total": 76200000
+  },
+  {
+    "month": "March 2026",
+    "copper": 52000000,
+    "cobalt": 14200000,
+    "gold": 9800000,
+    "emeralds": 3800000,
+    "manganese": 2200000,
+    "total": 82000000
+  },
+  {
+    "month": "April 2026",
+    "copper": 49500000,
+    "cobalt": 13800000,
+    "gold": 9500000,
+    "emeralds": 3600000,
+    "manganese": 2100000,
+    "total": 78500000
+  },
+  {
+    "month": "May 2026",
+    "copper": 51000000,
+    "cobalt": 14500000,
+    "gold": 10200000,
+    "emeralds": 4000000,
+    "manganese": 2300000,
+    "total": 82000000
+  },
+  {
+    "month": "June 2026",
+    "copper": 53500000,
+    "cobalt": 15000000,
+    "gold": 10800000,
+    "emeralds": 4200000,
+    "manganese": 2500000,
+    "total": 86000000
+  }
+]

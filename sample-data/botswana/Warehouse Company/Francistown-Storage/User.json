@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Francistown-Storage)",
+    "Email": "admin@francistown-storage.org",
+    "Role": "Warehouse"
+  },
+  {
+    "DisplayName": "Staff User (Francistown-Storage)",
+    "Email": "staff@francistown-storage.org",
+    "Role": "Warehouse"
+  }
+]

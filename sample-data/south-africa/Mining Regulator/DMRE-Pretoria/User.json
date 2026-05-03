@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (DMRE-Pretoria)",
+    "Email": "admin@dmre-pretoria.org",
+    "Role": "DirectorGeneral"
+  },
+  {
+    "DisplayName": "Staff User (DMRE-Pretoria)",
+    "Email": "staff@dmre-pretoria.org",
+    "Role": "DirectorGeneral"
+  }
+]

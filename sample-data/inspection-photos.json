@@ -1,0 +1,167 @@
+[
+  {
+    "id": "CAM-2024-001",
+    "inspectionId": "INS-2024-1234",
+    "siteId": "MIN-ZM-001",
+    "siteName": "Lumwana Copper Mine",
+    "captureDate": "2024-12-15T10:30:00Z",
+    "captureType": "Safety Inspection",
+    "location": {
+      "latitude": -12.1683,
+      "longitude": 25.8478,
+      "altitude": 1245.5,
+      "accuracy": 5.2,
+      "heading": 135.0,
+      "speed": 0.0
+    },
+    "imageMetadata": {
+      "width": 1920,
+      "height": 1080,
+      "format": "JPEG",
+      "size": 2456789,
+      "deviceModel": "Samsung Galaxy S21",
+      "cameraMake": "Samsung",
+      "iso": 200,
+      "exposureTime": "1/250",
+      "focalLength": 5.4
+    },
+    "notes": "Conveyor belt showing proper guarding and safety signage",
+    "tags": ["safety-compliant", "equipment", "conveyor-belt"],
+    "officerId": "OFF-1234",
+    "officerName": "Inspector John Mulenga",
+    "verified": true,
+    "verificationDate": "2024-12-15T11:00:00Z"
+  },
+  {
+    "id": "CAM-2024-002",
+    "inspectionId": "INS-2024-1234",
+    "siteId": "MIN-ZM-001",
+    "siteName": "Lumwana Copper Mine",
+    "captureDate": "2024-12-15T11:15:00Z",
+    "captureType": "Environmental Check",
+    "location": {
+      "latitude": -12.1695,
+      "longitude": 25.8490,
+      "altitude": 1238.2,
+      "accuracy": 4.8,
+      "heading": 220.5,
+      "speed": 1.2
+    },
+    "imageMetadata": {
+      "width": 1920,
+      "height": 1080,
+      "format": "JPEG",
+      "size": 3124567,
+      "deviceModel": "Samsung Galaxy S21",
+      "cameraMake": "Samsung",
+      "iso": 100,
+      "exposureTime": "1/500",
+      "focalLength": 5.4
+    },
+    "notes": "Tailings dam showing proper containment and water treatment",
+    "tags": ["environmental", "tailings-dam", "water-management"],
+    "officerId": "OFF-1234",
+    "officerName": "Inspector John Mulenga",
+    "verified": true,
+    "verificationDate": "2024-12-15T11:45:00Z"
+  },
+  {
+    "id": "CAM-2024-003",
+    "inspectionId": "INS-2024-1235",
+    "siteId": "MIN-ZM-005",
+    "siteName": "Kagem Emerald Mine",
+    "captureDate": "2024-12-16T09:20:00Z",
+    "captureType": "Underground Inspection",
+    "location": {
+      "latitude": -13.0833,
+      "longitude": 28.2667,
+      "altitude": 1350.0,
+      "accuracy": 8.5,
+      "heading": 45.0,
+      "speed": 0.0
+    },
+    "imageMetadata": {
+      "width": 1920,
+      "height": 1080,
+      "format": "JPEG",
+      "size": 1987654,
+      "deviceModel": "Samsung Galaxy S21",
+      "cameraMake": "Samsung",
+      "iso": 800,
+      "exposureTime": "1/60",
+      "focalLength": 5.4
+    },
+    "notes": "Shaft ventilation system - requires maintenance, dust buildup visible",
+    "tags": ["safety-concern", "ventilation", "maintenance-required"],
+    "officerId": "OFF-5678",
+    "officerName": "Inspector Mary Banda",
+    "verified": true,
+    "verificationDate": "2024-12-16T10:00:00Z"
+  },
+  {
+    "id": "CAM-2024-004",
+    "inspectionId": "INS-2024-1236",
+    "siteId": "MIN-ZM-012",
+    "siteName": "Zambezi Gold Exploration",
+    "captureDate": "2024-12-17T14:45:00Z",
+    "captureType": "Equipment Check",
+    "location": {
+      "latitude": -13.5333,
+      "longitude": 23.1000,
+      "altitude": 1100.5,
+      "accuracy": 6.1,
+      "heading": 310.0,
+      "speed": 0.0
+    },
+    "imageMetadata": {
+      "width": 1920,
+      "height": 1080,
+      "format": "JPEG",
+      "size": 2789012,
+      "deviceModel": "iPhone 14 Pro",
+      "cameraMake": "Apple",
+      "iso": 320,
+      "exposureTime": "1/200",
+      "focalLength": 6.9
+    },
+    "notes": "Drilling equipment in good condition, safety procedures posted",
+    "tags": ["equipment", "drilling", "safety-compliant"],
+    "officerId": "OFF-9012",
+    "officerName": "Inspector Peter Phiri",
+    "verified": true,
+    "verificationDate": "2024-12-17T15:15:00Z"
+  },
+  {
+    "id": "CAM-2024-005",
+    "inspectionId": "INS-2024-1237",
+    "siteId": "MIN-ZM-007",
+    "siteName": "Kabwe Rehabilitation Site",
+    "captureDate": "2024-12-18T08:30:00Z",
+    "captureType": "Remediation Progress",
+    "location": {
+      "latitude": -14.4469,
+      "longitude": 28.4469,
+      "altitude": 1200.0,
+      "accuracy": 4.2,
+      "heading": 180.0,
+      "speed": 0.0
+    },
+    "imageMetadata": {
+      "width": 1920,
+      "height": 1080,
+      "format": "JPEG",
+      "size": 3456789,
+      "deviceModel": "Samsung Galaxy S21",
+      "cameraMake": "Samsung",
+      "iso": 100,
+      "exposureTime": "1/400",
+      "focalLength": 5.4
+    },
+    "notes": "Soil remediation zone 3 - vegetation growth showing good progress",
+    "tags": ["remediation", "environmental-recovery", "progress"],
+    "officerId": "OFF-3456",
+    "officerName": "Inspector Grace Tembo",
+    "verified": true,
+    "verificationDate": "2024-12-18T09:00:00Z"
+  }
+]

@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (MRA-Zambia)",
+    "Email": "admin@mra-zambia.org",
+    "Role": "DirectorGeneral"
+  },
+  {
+    "DisplayName": "Staff User (MRA-Zambia)",
+    "Email": "staff@mra-zambia.org",
+    "Role": "DirectorGeneral"
+  }
+]

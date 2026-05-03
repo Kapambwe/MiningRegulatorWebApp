@@ -1,0 +1,20 @@
+﻿{
+  "Institution": "Debswana-Diamond-Company",
+  "Type": "Large Scale Miner",
+  "Country": "botswana",
+  "Permissions": [
+    "MRA.Access",
+    "MRA.Dashboard.View",
+    "MRA.Licenses.ViewOwn",
+    "MRA.Licenses.View",
+    "MRA.Production.Submit",
+    "MRA.Production.View",
+    "MRA.Royalties.ViewPayments",
+    "MRA.Stakeholder.View",
+    "MRA.Reporting.ViewReports",
+    "MRA.Environmental.View",
+    "MRA.Safety.View",
+    "MRA.LocalContent.View",
+    "MRA.Equipment.View"
+]
+}

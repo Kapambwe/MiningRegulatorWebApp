@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Durban-Port-Warehousing)",
+    "Email": "admin@durban-port-warehousing.org",
+    "Role": "Warehouse"
+  },
+  {
+    "DisplayName": "Staff User (Durban-Port-Warehousing)",
+    "Email": "staff@durban-port-warehousing.org",
+    "Role": "Warehouse"
+  }
+]

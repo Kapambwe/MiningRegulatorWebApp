@@ -1,0 +1,23 @@
+﻿{
+  "Institution": "Mpumalanga-Coal-Aggregators",
+  "Type": "Mineral Aggregator",
+  "Country": "south-africa",
+  "Permissions": [
+    "MRA.Access",
+    "MRA.Dashboard.View",
+    "Aggregator.*",
+    "MRA.Production.View",
+    "MRA.Royalties.ViewPayments",
+    "MRA.MineralTagging.View",
+    "MRA.MineralTagging.ViewInventory",
+    "MRA.MineralTagging.VerifyTags",
+    "MRA.MineralTagging.ViewExport",
+    "MRA.Offtake.ViewTraceability",
+    "MRA.Warehouse.ViewQuality",
+    "MRA.Licenses.View",
+    "MRA.Environmental.View",
+    "MRA.Safety.View",
+    "MRA.LocalContent.View",
+    "MRA.Reporting.ViewReports"
+]
+}

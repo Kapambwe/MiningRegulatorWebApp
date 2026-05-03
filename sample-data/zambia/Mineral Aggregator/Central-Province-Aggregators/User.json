@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Central-Province-Aggregators)",
+    "Email": "admin@central-province-aggregators.org",
+    "Role": "Aggregator"
+  },
+  {
+    "DisplayName": "Staff User (Central-Province-Aggregators)",
+    "Email": "staff@central-province-aggregators.org",
+    "Role": "Aggregator"
+  }
+]

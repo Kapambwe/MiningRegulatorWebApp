@@ -1,0 +1,217 @@
+[
+  {
+    "agreementId": "AGR-2024-001",
+    "licenseNumber": "ML-2024-0456",
+    "licenseHolderName": "Kopala Mining Ltd",
+    "agreementType": "Land Access Agreement",
+    "landType": "Customary Land",
+    "location": "Copperbelt Province - Chingola District",
+    "areaAffected": 450.5,
+    "landownerName": "Chief Nkana (Traditional Authority)",
+    "landownerType": "Traditional Authority",
+    "agreementDate": "2024-01-15",
+    "expiryDate": "2029-01-15",
+    "consentStatus": "Approved",
+    "consentDate": "2024-01-10",
+    "compensationAmount": 500000,
+    "compensationCurrency": "ZMW",
+    "compensationSchedule": "Annual",
+    "paymentStatus": "Paid - Year 1",
+    "nextPaymentDate": "2025-01-15",
+    "benefits": [
+      "Community development projects - K100,000/year",
+      "Employment priority for local residents",
+      "Infrastructure development (roads, schools)"
+    ],
+    "restrictions": [
+      "No mining within 200m of settlements",
+      "Environmental restoration after operations"
+    ],
+    "documents": [
+      "Access Agreement Signed",
+      "Chief's Consent Letter",
+      "Community Consultation Minutes",
+      "Compensation Payment Receipt"
+    ]
+  },
+  {
+    "agreementId": "AGR-2024-002",
+    "licenseNumber": "EL-2023-0789",
+    "licenseHolderName": "Solwezi Exploration Ltd",
+    "agreementType": "Forest Reserve Access",
+    "landType": "Forest Reserve",
+    "location": "Northwestern Province - Solwezi District",
+    "areaAffected": 1200.0,
+    "landownerName": "Forestry Department",
+    "landownerType": "Government Agency",
+    "agreementDate": "2024-02-01",
+    "expiryDate": "2027-02-01",
+    "consentStatus": "Approved with Conditions",
+    "consentDate": "2024-01-25",
+    "compensationAmount": 0,
+    "compensationCurrency": "ZMW",
+    "compensationSchedule": "N/A",
+    "paymentStatus": "N/A",
+    "nextPaymentDate": null,
+    "benefits": [
+      "Reforestation program - 5,000 trees/year",
+      "Forest monitoring equipment provision"
+    ],
+    "restrictions": [
+      "No tree cutting without permit",
+      "Monthly environmental monitoring reports",
+      "Access limited to designated exploration zones only"
+    ],
+    "conditions": [
+      "Submit quarterly biodiversity reports",
+      "Implement soil erosion prevention measures"
+    ],
+    "documents": [
+      "Access Agreement Signed",
+      "Forestry Department Consent",
+      "Environmental Management Plan",
+      "Reforestation Plan"
+    ]
+  },
+  {
+    "agreementId": "AGR-2024-003",
+    "licenseNumber": "ML-2024-0321",
+    "licenseHolderName": "Kafue Minerals Corp",
+    "agreementType": "Private Land Access",
+    "landType": "Private Freehold",
+    "location": "Southern Province - Choma District",
+    "areaAffected": 125.0,
+    "landownerName": "Choma Farms Ltd",
+    "landownerType": "Private Company",
+    "agreementDate": "2024-01-20",
+    "expiryDate": "2034-01-20",
+    "consentStatus": "Approved",
+    "consentDate": "2024-01-15",
+    "compensationAmount": 750000,
+    "compensationCurrency": "ZMW",
+    "compensationSchedule": "One-time Payment",
+    "paymentStatus": "Paid",
+    "nextPaymentDate": null,
+    "benefits": [
+      "Lump sum compensation for surface rights",
+      "Annual royalty - 2% of mineral revenue"
+    ],
+    "restrictions": [
+      "Mining operations restricted to non-arable zones",
+      "Access road maintenance responsibility"
+    ],
+    "documents": [
+      "Access Agreement Signed",
+      "Landowner Consent",
+      "Survey Report",
+      "Payment Receipt"
+    ]
+  },
+  {
+    "agreementId": "AGR-2024-004",
+    "licenseNumber": "EL-2024-0147",
+    "licenseHolderName": "Luapula Exploration Ventures",
+    "agreementType": "Water Body Access",
+    "landType": "National Water Resource",
+    "location": "Luapula Province - Mansa District",
+    "areaAffected": 80.0,
+    "landownerName": "Water Resources Management Authority",
+    "landownerType": "Government Agency",
+    "agreementDate": "2024-03-01",
+    "expiryDate": "2027-03-01",
+    "consentStatus": "Pending",
+    "consentDate": null,
+    "compensationAmount": 0,
+    "compensationCurrency": "ZMW",
+    "compensationSchedule": "N/A",
+    "paymentStatus": "N/A",
+    "nextPaymentDate": null,
+    "benefits": [],
+    "restrictions": [
+      "No water pollution allowed",
+      "Weekly water quality testing required",
+      "90m buffer zone from water edge"
+    ],
+    "conditions": [
+      "Install water treatment facility before operations",
+      "Submit water management plan"
+    ],
+    "documents": [
+      "Access Application Submitted",
+      "Water Management Plan"
+    ]
+  },
+  {
+    "agreementId": "AGR-2024-005",
+    "licenseNumber": "ML-2023-0258",
+    "licenseHolderName": "Eastern Province Mining Ltd",
+    "agreementType": "Compensation Agreement",
+    "landType": "Customary Land",
+    "location": "Eastern Province - Chipata District",
+    "areaAffected": 320.0,
+    "landownerName": "Village Headman Mwamba",
+    "landownerType": "Traditional Authority",
+    "agreementDate": "2024-02-10",
+    "expiryDate": "2029-02-10",
+    "consentStatus": "Disputed",
+    "consentDate": null,
+    "compensationAmount": 450000,
+    "compensationCurrency": "ZMW",
+    "compensationSchedule": "Annual",
+    "paymentStatus": "Disputed",
+    "nextPaymentDate": null,
+    "disputeReason": "Community claims inadequate compensation for crop damage",
+    "disputeStatus": "Under Mediation",
+    "mediationDate": "2024-03-15",
+    "benefits": [
+      "Crop compensation - K450,000/year",
+      "Borehole construction for community"
+    ],
+    "restrictions": [
+      "No operations during farming season",
+      "Restoration of agricultural land after mining"
+    ],
+    "documents": [
+      "Initial Agreement Draft",
+      "Crop Valuation Report",
+      "Community Meeting Minutes",
+      "Dispute Resolution Application"
+    ]
+  },
+  {
+    "agreementId": "AGR-2024-006",
+    "licenseNumber": "PL-2024-0112",
+    "licenseHolderName": "Central Processing Ltd",
+    "agreementType": "Urban Area Access",
+    "landType": "Council Land",
+    "location": "Central Province - Kabwe",
+    "areaAffected": 25.0,
+    "landownerName": "Kabwe Municipal Council",
+    "landownerType": "Local Authority",
+    "agreementDate": "2024-01-30",
+    "expiryDate": "2044-01-30",
+    "consentStatus": "Approved",
+    "consentDate": "2024-01-25",
+    "compensationAmount": 1200000,
+    "compensationCurrency": "ZMW",
+    "compensationSchedule": "Annual Lease Fee",
+    "paymentStatus": "Paid - Year 1",
+    "nextPaymentDate": "2025-01-30",
+    "benefits": [
+      "Annual lease payment - K1,200,000",
+      "Infrastructure maintenance contribution",
+      "Local employment preference"
+    ],
+    "restrictions": [
+      "60m buffer from urban boundary",
+      "Noise and dust control measures mandatory",
+      "Operating hours: 6 AM - 6 PM only"
+    ],
+    "documents": [
+      "Access Agreement Signed",
+      "Council Resolution",
+      "Lease Agreement",
+      "Payment Receipt"
+    ]
+  }
+]

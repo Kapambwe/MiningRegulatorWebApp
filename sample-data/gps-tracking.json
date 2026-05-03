@@ -1,0 +1,236 @@
+[
+  {
+    "id": "GPS-TRACK-001",
+    "inspectionId": "INS-2024-1234",
+    "officerId": "OFF-1234",
+    "officerName": "Inspector John Mulenga",
+    "trackDate": "2024-12-15",
+    "startTime": "2024-12-15T09:00:00Z",
+    "endTime": "2024-12-15T15:30:00Z",
+    "totalDistance": 12.5,
+    "distanceUnit": "km",
+    "averageSpeed": 2.1,
+    "speedUnit": "km/h",
+    "waypoints": [
+      {
+        "timestamp": "2024-12-15T09:00:00Z",
+        "latitude": -12.1650,
+        "longitude": 25.8450,
+        "altitude": 1250.0,
+        "accuracy": 5.0,
+        "heading": 0.0,
+        "speed": 0.0,
+        "note": "Started inspection at main gate"
+      },
+      {
+        "timestamp": "2024-12-15T09:30:00Z",
+        "latitude": -12.1670,
+        "longitude": 25.8465,
+        "altitude": 1248.0,
+        "accuracy": 4.5,
+        "heading": 135.0,
+        "speed": 2.5,
+        "note": "Processing plant area"
+      },
+      {
+        "timestamp": "2024-12-15T10:30:00Z",
+        "latitude": -12.1683,
+        "longitude": 25.8478,
+        "altitude": 1245.5,
+        "accuracy": 5.2,
+        "heading": 135.0,
+        "speed": 0.0,
+        "note": "Conveyor belt inspection"
+      },
+      {
+        "timestamp": "2024-12-15T11:15:00Z",
+        "latitude": -12.1695,
+        "longitude": 25.8490,
+        "altitude": 1238.2,
+        "accuracy": 4.8,
+        "heading": 220.5,
+        "speed": 1.2,
+        "note": "Tailings dam inspection"
+      },
+      {
+        "timestamp": "2024-12-15T12:00:00Z",
+        "latitude": -12.1705,
+        "longitude": 25.8500,
+        "altitude": 1235.0,
+        "accuracy": 5.5,
+        "heading": 180.0,
+        "speed": 0.0,
+        "note": "Lunch break at site office"
+      },
+      {
+        "timestamp": "2024-12-15T13:30:00Z",
+        "latitude": -12.1720,
+        "longitude": 25.8515,
+        "altitude": 1230.0,
+        "accuracy": 6.0,
+        "heading": 90.0,
+        "speed": 3.0,
+        "note": "Underground entrance inspection"
+      },
+      {
+        "timestamp": "2024-12-15T15:30:00Z",
+        "latitude": -12.1650,
+        "longitude": 25.8450,
+        "altitude": 1250.0,
+        "accuracy": 5.0,
+        "heading": 0.0,
+        "speed": 0.0,
+        "note": "Returned to main gate - inspection complete"
+      }
+    ],
+    "sitesVisited": ["Processing Plant", "Conveyor System", "Tailings Dam", "Underground Entrance"],
+    "totalWaypoints": 7,
+    "trackCompleted": true
+  },
+  {
+    "id": "GPS-TRACK-002",
+    "inspectionId": "INS-2024-1235",
+    "officerId": "OFF-5678",
+    "officerName": "Inspector Mary Banda",
+    "trackDate": "2024-12-16",
+    "startTime": "2024-12-16T08:30:00Z",
+    "endTime": "2024-12-16T14:00:00Z",
+    "totalDistance": 8.3,
+    "distanceUnit": "km",
+    "averageSpeed": 1.8,
+    "speedUnit": "km/h",
+    "waypoints": [
+      {
+        "timestamp": "2024-12-16T08:30:00Z",
+        "latitude": -13.0800,
+        "longitude": 28.2650,
+        "altitude": 1355.0,
+        "accuracy": 6.5,
+        "heading": 0.0,
+        "speed": 0.0,
+        "note": "Security checkpoint"
+      },
+      {
+        "timestamp": "2024-12-16T09:20:00Z",
+        "latitude": -13.0833,
+        "longitude": 28.2667,
+        "altitude": 1350.0,
+        "accuracy": 8.5,
+        "heading": 45.0,
+        "speed": 0.0,
+        "note": "Shaft entrance - ventilation check"
+      },
+      {
+        "timestamp": "2024-12-16T10:45:00Z",
+        "latitude": -13.0850,
+        "longitude": 28.2680,
+        "altitude": 1345.0,
+        "accuracy": 7.0,
+        "heading": 120.0,
+        "speed": 1.5,
+        "note": "Worker safety station"
+      },
+      {
+        "timestamp": "2024-12-16T12:30:00Z",
+        "latitude": -13.0870,
+        "longitude": 28.2700,
+        "altitude": 1340.0,
+        "accuracy": 6.2,
+        "heading": 200.0,
+        "speed": 2.0,
+        "note": "Emerald sorting facility"
+      },
+      {
+        "timestamp": "2024-12-16T14:00:00Z",
+        "latitude": -13.0800,
+        "longitude": 28.2650,
+        "altitude": 1355.0,
+        "accuracy": 6.0,
+        "heading": 0.0,
+        "speed": 0.0,
+        "note": "Inspection completed"
+      }
+    ],
+    "sitesVisited": ["Main Shaft", "Safety Station", "Sorting Facility"],
+    "totalWaypoints": 5,
+    "trackCompleted": true
+  },
+  {
+    "id": "GPS-TRACK-003",
+    "inspectionId": "INS-2024-1236",
+    "officerId": "OFF-9012",
+    "officerName": "Inspector Peter Phiri",
+    "trackDate": "2024-12-17",
+    "startTime": "2024-12-17T13:00:00Z",
+    "endTime": "2024-12-17T17:30:00Z",
+    "totalDistance": 15.7,
+    "distanceUnit": "km",
+    "averageSpeed": 3.5,
+    "speedUnit": "km/h",
+    "waypoints": [
+      {
+        "timestamp": "2024-12-17T13:00:00Z",
+        "latitude": -13.5300,
+        "longitude": 23.0950,
+        "altitude": 1105.0,
+        "accuracy": 5.5,
+        "heading": 0.0,
+        "speed": 0.0,
+        "note": "Base camp"
+      },
+      {
+        "timestamp": "2024-12-17T14:00:00Z",
+        "latitude": -13.5320,
+        "longitude": 23.0980,
+        "altitude": 1102.0,
+        "accuracy": 6.0,
+        "heading": 75.0,
+        "speed": 4.2,
+        "note": "Drill site 1"
+      },
+      {
+        "timestamp": "2024-12-17T14:45:00Z",
+        "latitude": -13.5333,
+        "longitude": 23.1000,
+        "altitude": 1100.5,
+        "accuracy": 6.1,
+        "heading": 310.0,
+        "speed": 0.0,
+        "note": "Main drilling equipment inspection"
+      },
+      {
+        "timestamp": "2024-12-17T15:30:00Z",
+        "latitude": -13.5350,
+        "longitude": 23.1020,
+        "altitude": 1098.0,
+        "accuracy": 5.8,
+        "heading": 150.0,
+        "speed": 3.5,
+        "note": "Drill site 2"
+      },
+      {
+        "timestamp": "2024-12-17T16:30:00Z",
+        "latitude": -13.5370,
+        "longitude": 23.1040,
+        "altitude": 1095.0,
+        "accuracy": 6.5,
+        "heading": 200.0,
+        "speed": 2.8,
+        "note": "Core sample storage"
+      },
+      {
+        "timestamp": "2024-12-17T17:30:00Z",
+        "latitude": -13.5300,
+        "longitude": 23.0950,
+        "altitude": 1105.0,
+        "accuracy": 5.2,
+        "heading": 0.0,
+        "speed": 0.0,
+        "note": "Returned to base camp"
+      }
+    ],
+    "sitesVisited": ["Drill Site 1", "Main Equipment Area", "Drill Site 2", "Sample Storage"],
+    "totalWaypoints": 6,
+    "trackCompleted": true
+  }
+]

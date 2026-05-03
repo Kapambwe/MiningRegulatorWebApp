@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ROLE-ADMIN",
+    "roleName": "Administrator",
+    "description": "Full system access with all permissions",
+    "isActive": true,
+    "permissions": [
+      "users.create", "users.read", "users.update", "users.delete",
+      "licenses.create", "licenses.read", "licenses.update", "licenses.delete",
+      "inspections.create", "inspections.read", "inspections.update", "inspections.delete",
+      "royalties.create", "royalties.read", "royalties.update", "royalties.delete",
+      "reports.create", "reports.read", "reports.update", "reports.delete",
+      "settings.manage", "security.manage", "audit.view"
+    ],
+    "userCount": 5,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "lastModified": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "ROLE-INSPECTOR",
+    "roleName": "Inspector",
+    "description": "Field inspection and compliance monitoring",
+    "isActive": true,
+    "permissions": [
+      "inspections.create", "inspections.read", "inspections.update",
+      "licenses.read",
+      "compliance.read", "compliance.update",
+      "reports.create", "reports.read",
+      "photos.upload", "gps.record"
+    ],
+    "userCount": 45,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "lastModified": "2024-06-15T00:00:00Z"
+  },
+  {
+    "id": "ROLE-FINANCE",
+    "roleName": "Finance Officer",
+    "description": "Royalty and financial management",
+    "isActive": true,
+    "permissions": [
+      "royalties.create", "royalties.read", "royalties.update",
+      "payments.create", "payments.read", "payments.update",
+      "licenses.read",
+      "reports.create", "reports.read",
+      "integrations.zra.read", "integrations.zra.submit"
+    ],
+    "userCount": 12,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "lastModified": "2024-03-20T00:00:00Z"
+  },
+  {
+    "id": "ROLE-ENVIRONMENTAL",
+    "roleName": "Environmental Officer",
+    "description": "Environmental compliance and monitoring",
+    "isActive": true,
+    "permissions": [
+      "environmental.create", "environmental.read", "environmental.update",
+      "eia.create", "eia.read", "eia.update",
+      "licenses.read",
+      "reports.create", "reports.read",
+      "integrations.zema.read", "integrations.zema.submit"
+    ],
+    "userCount": 18,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "lastModified": "2024-02-10T00:00:00Z"
+  },
+  {
+    "id": "ROLE-VIEWER",
+    "roleName": "Viewer",
+    "description": "Read-only access to public information",
+    "isActive": true,
+    "permissions": [
+      "licenses.read",
+      "inspections.read",
+      "reports.read"
+    ],
+    "userCount": 150,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "lastModified": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "ROLE-MININGCOMPANY",
+    "roleName": "Mining Company",
+    "description": "Self-service portal for licensed mining companies",
+    "isActive": true,
+    "permissions": [
+      "licenses.read.own",
+      "inspections.read.own",
+      "royalties.read.own", "royalties.submit",
+      "reports.read.own", "reports.submit",
+      "applications.create", "applications.read.own", "applications.update.own"
+    ],
+    "userCount": 250,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "lastModified": "2024-05-01T00:00:00Z"
+  }
+]

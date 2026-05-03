@@ -1,0 +1,33 @@
+﻿{
+  "Institution": "BMD-Gaborone",
+  "Type": "Mining Regulator",
+  "Country": "botswana",
+  "Permissions": [
+    "MRA.Access",
+    "MRA.Dashboard.View",
+    "MRA.Licenses.ViewAll",
+    "Licenses.*",
+    "LargeScaleMining.*",
+    "ArtisanalMining.*",
+    "Cadastre.*",
+    "Production.*",
+    "Royalties.*",
+    "Environmental.*",
+    "Safety.*",
+    "Financial.*",
+    "Stakeholder.*",
+    "Compliance.*",
+    "MineralTagging.*",
+    "DecisionEngine.*",
+    "Analytics.*",
+    "Regulatory.*",
+    "LocalContent.*",
+    "Geological.*",
+    "Equipment.*",
+    "Workforce.*",
+    "Audit.*",
+    "AICompliance.*",
+    "Reporting.*",
+    "UserManagement.*"
+]
+}

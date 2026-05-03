@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (BMD-Gaborone)",
+    "Email": "admin@bmd-gaborone.org",
+    "Role": "DirectorGeneral"
+  },
+  {
+    "DisplayName": "Staff User (BMD-Gaborone)",
+    "Email": "staff@bmd-gaborone.org",
+    "Role": "DirectorGeneral"
+  }
+]

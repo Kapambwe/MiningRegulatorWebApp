@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Debswana-Diamond-Company)",
+    "Email": "admin@debswana-diamond-company.org",
+    "Role": "Licensee"
+  },
+  {
+    "DisplayName": "Staff User (Debswana-Diamond-Company)",
+    "Email": "staff@debswana-diamond-company.org",
+    "Role": "Licensee"
+  }
+]

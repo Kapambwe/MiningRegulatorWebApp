@@ -1,0 +1,90 @@
+[
+  {
+    "id": "CEEC-CLASS-2024-001",
+    "companyRegistrationNumber": "119900001234",
+    "companyName": "Copper Resources Ltd",
+    "classification": "CitizenOwned",
+    "zambianOwnershipPercentage": 100.0,
+    "foreignOwnershipPercentage": 0.0,
+    "meetsCitizenRequirements": true,
+    "classificationDate": "2024-01-10",
+    "expiryDate": "2025-01-10",
+    "certificateNumber": "CEEC/CO/2024/001",
+    "zambianDirectors": 2,
+    "totalDirectors": 2,
+    "zambianShareholders": 2,
+    "totalShareholders": 2,
+    "verificationStatus": "Verified",
+    "verificationDate": "2024-12-15T10:00:00Z",
+    "benefits": [
+      "Access to CEEC financing programs",
+      "Priority in government procurement",
+      "Tax incentives for citizen-owned enterprises"
+    ]
+  },
+  {
+    "id": "CEEC-CLASS-2024-002",
+    "companyRegistrationNumber": "119900005678",
+    "companyName": "Emerald Mining Corporation",
+    "classification": "CitizenInfluenced",
+    "zambianOwnershipPercentage": 55.0,
+    "foreignOwnershipPercentage": 45.0,
+    "meetsCitizenRequirements": true,
+    "classificationDate": "2024-02-15",
+    "expiryDate": "2025-02-15",
+    "certificateNumber": "CEEC/CI/2024/002",
+    "zambianDirectors": 2,
+    "totalDirectors": 3,
+    "zambianShareholders": 2,
+    "totalShareholders": 3,
+    "verificationStatus": "Verified",
+    "verificationDate": "2024-12-10T14:30:00Z",
+    "benefits": [
+      "Partial access to CEEC programs",
+      "Local content compliance advantages"
+    ]
+  },
+  {
+    "id": "CEEC-CLASS-2024-003",
+    "companyRegistrationNumber": "119900012345",
+    "companyName": "Zambezi Gold Mining",
+    "classification": "CitizenOwned",
+    "zambianOwnershipPercentage": 100.0,
+    "foreignOwnershipPercentage": 0.0,
+    "meetsCitizenRequirements": true,
+    "classificationDate": "2024-03-01",
+    "expiryDate": "2025-03-01",
+    "certificateNumber": "CEEC/CO/2024/003",
+    "zambianDirectors": 1,
+    "totalDirectors": 1,
+    "zambianShareholders": 1,
+    "totalShareholders": 1,
+    "verificationStatus": "Verified",
+    "verificationDate": "2024-12-12T09:00:00Z",
+    "benefits": [
+      "Access to CEEC financing programs",
+      "Priority in government procurement",
+      "Tax incentives for citizen-owned enterprises",
+      "Preferential treatment in licensing"
+    ]
+  },
+  {
+    "id": "CEEC-CLASS-2024-004",
+    "companyRegistrationNumber": "119900067890",
+    "companyName": "International Mining Corp",
+    "classification": "ForeignOwned",
+    "zambianOwnershipPercentage": 15.0,
+    "foreignOwnershipPercentage": 85.0,
+    "meetsCitizenRequirements": false,
+    "classificationDate": "2024-04-20",
+    "expiryDate": "2025-04-20",
+    "certificateNumber": "CEEC/FO/2024/004",
+    "zambianDirectors": 1,
+    "totalDirectors": 5,
+    "zambianShareholders": 1,
+    "totalShareholders": 4,
+    "verificationStatus": "Verified",
+    "verificationDate": "2024-12-08T11:15:00Z",
+    "benefits": []
+  }
+]

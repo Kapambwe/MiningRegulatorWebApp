@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (MUZ-National)",
+    "Email": "admin@muz-national.org",
+    "Role": "MiningUnion"
+  },
+  {
+    "DisplayName": "Staff User (MUZ-National)",
+    "Email": "staff@muz-national.org",
+    "Role": "MiningUnion"
+  }
+]
