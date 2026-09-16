@@ -1,0 +1,50 @@
+[
+  {
+    "month": "January 2026",
+    "copperTonnes": 125000,
+    "cobaltTonnes": 8500,
+    "goldKg": 450,
+    "emeraldsCarats": 85000,
+    "manganeseTonnes": 15000
+  },
+  {
+    "month": "February 2026",
+    "copperTonnes": 132000,
+    "cobaltTonnes": 9200,
+    "goldKg": 485,
+    "emeraldsCarats": 90000,
+    "manganeseTonnes": 16000
+  },
+  {
+    "month": "March 2026",
+    "copperTonnes": 140000,
+    "cobaltTonnes": 9800,
+    "goldKg": 520,
+    "emeraldsCarats": 95000,
+    "manganeseTonnes": 17500
+  },
+  {
+    "month": "April 2026",
+    "copperTonnes": 135000,
+    "cobaltTonnes": 9500,
+    "goldKg": 500,
+    "emeraldsCarats": 92000,
+    "manganeseTonnes": 16800
+  },
+  {
+    "month": "May 2026",
+    "copperTonnes": 138000,
+    "cobaltTonnes": 9900,
+    "goldKg": 535,
+    "emeraldsCarats": 98000,
+    "manganeseTonnes": 18000
+  },
+  {
+    "month": "June 2026",
+    "copperTonnes": 145000,
+    "cobaltTonnes": 10500,
+    "goldKg": 565,
+    "emeraldsCarats": 102000,
+    "manganeseTonnes": 19200
+  }
+]

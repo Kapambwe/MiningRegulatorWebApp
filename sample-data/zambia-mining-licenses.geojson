@@ -1,0 +1,312 @@
+{
+  "type": "FeatureCollection",
+  "name": "Zambia Mining Licenses Sample Data",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseNumber": "LLS-001-2024",
+        "licenseType": "Large-Scale Mining",
+        "companyName": "Konkola Copper Mines Plc",
+        "mineralType": "Copper",
+        "province": "Copperbelt",
+        "district": "Chililabombwe",
+        "areaHectares": 25000,
+        "issueDate": "2024-01-15",
+        "expiryDate": "2044-01-14",
+        "status": "Active",
+        "annualProduction": 200000,
+        "grade": 2.5,
+        "employeeCount": 5000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [28.2871, -12.8406],
+            [28.3871, -12.8406],
+            [28.3871, -12.9406],
+            [28.2871, -12.9406],
+            [28.2871, -12.8406]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseNumber": "LLS-002-2023",
+        "licenseType": "Large-Scale Mining",
+        "companyName": "Kansanshi Mining Plc",
+        "mineralType": "Copper",
+        "province": "Northwestern",
+        "district": "Solwezi",
+        "areaHectares": 30000,
+        "issueDate": "2023-03-20",
+        "expiryDate": "2043-03-19",
+        "status": "Active",
+        "annualProduction": 250000,
+        "grade": 2.8,
+        "employeeCount": 6500
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [26.4264, -12.0869],
+            [26.5264, -12.0869],
+            [26.5264, -12.1869],
+            [26.4264, -12.1869],
+            [26.4264, -12.0869]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseNumber": "LLS-003-2023",
+        "licenseType": "Large-Scale Mining",
+        "companyName": "Mopani Copper Mines Plc",
+        "mineralType": "Copper,Cobalt",
+        "province": "Copperbelt",
+        "district": "Kitwe",
+        "areaHectares": 18000,
+        "issueDate": "2023-06-10",
+        "expiryDate": "2043-06-09",
+        "status": "Active",
+        "annualProduction": 150000,
+        "grade": 2.2,
+        "employeeCount": 4200
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [28.2138, -12.8028],
+            [28.3138, -12.8028],
+            [28.3138, -12.9028],
+            [28.2138, -12.9028],
+            [28.2138, -12.8028]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseNumber": "LLS-004-2022",
+        "licenseType": "Large-Scale Mining",
+        "companyName": "Lumwana Mining Company",
+        "mineralType": "Copper",
+        "province": "Northwestern",
+        "district": "Solwezi",
+        "areaHectares": 22000,
+        "issueDate": "2022-09-15",
+        "expiryDate": "2042-09-14",
+        "status": "Active",
+        "annualProduction": 140000,
+        "grade": 1.8,
+        "employeeCount": 3800
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [25.8333, -12.2167],
+            [25.9333, -12.2167],
+            [25.9333, -12.3167],
+            [25.8333, -12.3167],
+            [25.8333, -12.2167]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseNumber": "GLS-001-2024",
+        "licenseType": "Gemstone Production",
+        "companyName": "Gemfields Zambia Limited",
+        "mineralType": "Emerald",
+        "province": "Copperbelt",
+        "district": "Ndola Rural",
+        "areaHectares": 3500,
+        "issueDate": "2024-02-01",
+        "expiryDate": "2034-01-31",
+        "status": "Active",
+        "annualProduction": 0,
+        "grade": 15.5,
+        "employeeCount": 800
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [28.3167, -13.5167],
+            [28.3667, -13.5167],
+            [28.3667, -13.5667],
+            [28.3167, -13.5667],
+            [28.3167, -13.5167]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseNumber": "MLS-001-2024",
+        "licenseType": "Medium-Scale Mining",
+        "companyName": "Zambezi Copper Enterprises",
+        "mineralType": "Copper",
+        "province": "Northwestern",
+        "district": "Mwinilunga",
+        "areaHectares": 5000,
+        "issueDate": "2024-01-20",
+        "expiryDate": "2034-01-19",
+        "status": "Active",
+        "annualProduction": 15000,
+        "grade": 2.1,
+        "employeeCount": 350
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [24.4264, -11.7358],
+            [24.5264, -11.7358],
+            [24.5264, -11.8358],
+            [24.4264, -11.8358],
+            [24.4264, -11.7358]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseNumber": "SLS-001-2024",
+        "licenseType": "Small-Scale Mining",
+        "companyName": "Northern Gold Miners Cooperative",
+        "mineralType": "Gold",
+        "province": "Northern",
+        "district": "Mpika",
+        "areaHectares": 1200,
+        "issueDate": "2024-03-01",
+        "expiryDate": "2029-02-28",
+        "status": "Active",
+        "annualProduction": 0,
+        "grade": 3.5,
+        "employeeCount": 120
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [31.4500, -11.8333],
+            [31.5000, -11.8333],
+            [31.5000, -11.8833],
+            [31.4500, -11.8833],
+            [31.4500, -11.8333]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseNumber": "EXP-001-2024",
+        "licenseType": "Exploration",
+        "companyName": "Zambezi Exploration Limited",
+        "mineralType": "Copper,Cobalt,Nickel",
+        "province": "Luapula",
+        "district": "Nchelenge",
+        "areaHectares": 8000,
+        "issueDate": "2024-02-15",
+        "expiryDate": "2027-02-14",
+        "status": "Active",
+        "annualProduction": 0,
+        "grade": 0,
+        "employeeCount": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [28.7369, -9.3450],
+            [28.8369, -9.3450],
+            [28.8369, -9.4450],
+            [28.7369, -9.4450],
+            [28.7369, -9.3450]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseNumber": "LLS-005-2023",
+        "licenseType": "Large-Scale Mining",
+        "companyName": "Chambishi Metals Plc",
+        "mineralType": "Copper,Cobalt",
+        "province": "Copperbelt",
+        "district": "Chambishi",
+        "areaHectares": 16000,
+        "issueDate": "2023-08-10",
+        "expiryDate": "2043-08-09",
+        "status": "Active",
+        "annualProduction": 120000,
+        "grade": 2.4,
+        "employeeCount": 3500
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [28.0500, -12.6500],
+            [28.1500, -12.6500],
+            [28.1500, -12.7500],
+            [28.0500, -12.7500],
+            [28.0500, -12.6500]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseNumber": "MLS-002-2024",
+        "licenseType": "Medium-Scale Mining",
+        "companyName": "Maamba Collieries Limited",
+        "mineralType": "Coal",
+        "province": "Southern",
+        "district": "Sinazongwe",
+        "areaHectares": 7500,
+        "issueDate": "2024-01-05",
+        "expiryDate": "2034-01-04",
+        "status": "Active",
+        "annualProduction": 500000,
+        "grade": 0,
+        "employeeCount": 1200
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [27.1667, -17.3667],
+            [27.2667, -17.3667],
+            [27.2667, -17.4667],
+            [27.1667, -17.4667],
+            [27.1667, -17.3667]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Northern-Cape-Coop)",
+    "Email": "admin@northern-cape-coop.org",
+    "Role": "ASMOperator"
+  },
+  {
+    "DisplayName": "Staff User (Northern-Cape-Coop)",
+    "Email": "staff@northern-cape-coop.org",
+    "Role": "ASMOperator"
+  }
+]

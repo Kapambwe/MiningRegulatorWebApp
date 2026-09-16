@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Selebi-Phikwe-Aggregators)",
+    "Email": "admin@selebi-phikwe-aggregators.org",
+    "Role": "Aggregator"
+  },
+  {
+    "DisplayName": "Staff User (Selebi-Phikwe-Aggregators)",
+    "Email": "staff@selebi-phikwe-aggregators.org",
+    "Role": "Aggregator"
+  }
+]

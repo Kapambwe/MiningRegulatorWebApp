@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (BMWU-Headquarters)",
+    "Email": "admin@bmwu-headquarters.org",
+    "Role": "MiningUnion"
+  },
+  {
+    "DisplayName": "Staff User (BMWU-Headquarters)",
+    "Email": "staff@bmwu-headquarters.org",
+    "Role": "MiningUnion"
+  }
+]

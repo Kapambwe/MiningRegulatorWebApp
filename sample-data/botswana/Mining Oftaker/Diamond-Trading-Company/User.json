@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Diamond-Trading-Company)",
+    "Email": "admin@diamond-trading-company.org",
+    "Role": "Offtaker"
+  },
+  {
+    "DisplayName": "Staff User (Diamond-Trading-Company)",
+    "Email": "staff@diamond-trading-company.org",
+    "Role": "Offtaker"
+  }
+]

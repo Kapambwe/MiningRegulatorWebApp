@@ -1,0 +1,22 @@
+﻿{
+  "Institution": "Northern-Cape-Coop",
+  "Type": "Artisanal Cooperative",
+  "Country": "south-africa",
+  "Permissions": [
+    "MRA.Access",
+    "MRA.Dashboard.View",
+    "MRA.Licenses.ViewOwn",
+    "MRA.Artisanal.View",
+    "MRA.Artisanal.ManageRegistrations",
+    "MRA.Artisanal.IssuePermits",
+    "MRA.Artisanal.ManageCooperatives",
+    "MRA.Artisanal.ViewLoans",
+    "MRA.Artisanal.ManageGrants",
+    "MRA.Production.Submit",
+    "MRA.LocalContent.View",
+    "MRA.LocalContent.ViewEmployment",
+    "MRA.Stakeholder.View",
+    "MRA.Stakeholder.ViewConsent",
+    "MRA.Reporting.ViewReports"
+]
+}

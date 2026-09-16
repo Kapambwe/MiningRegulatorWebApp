@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Kansanshi-Mining-PLC)",
+    "Email": "admin@kansanshi-mining-plc.org",
+    "Role": "Licensee"
+  },
+  {
+    "DisplayName": "Staff User (Kansanshi-Mining-PLC)",
+    "Email": "staff@kansanshi-mining-plc.org",
+    "Role": "Licensee"
+  }
+]

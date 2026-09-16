@@ -1,0 +1,58 @@
+[
+  {
+    "id": "alert-001",
+    "ruleName": "High Safety Incident Rate",
+    "metric": "Safety Incident Rate",
+    "condition": "GreaterThan",
+    "thresholdValue": 3.0,
+    "severity": "Critical",
+    "notificationMethod": "Email, SMS",
+    "recipients": ["safety@mrc.gov.zm", "director@mrc.gov.zm"],
+    "isActive": true,
+    "lastTriggered": "2026-01-28T14:30:00",
+    "triggerCount": 2,
+    "createdBy": "Safety Manager"
+  },
+  {
+    "id": "alert-002",
+    "ruleName": "Low Production Alert",
+    "metric": "Daily Production",
+    "condition": "LessThan",
+    "thresholdValue": 350,
+    "severity": "High",
+    "notificationMethod": "Email, Dashboard",
+    "recipients": ["production@mrc.gov.zm", "operations@mrc.gov.zm"],
+    "isActive": true,
+    "lastTriggered": "2026-02-10T08:00:00",
+    "triggerCount": 5,
+    "createdBy": "Production Manager"
+  },
+  {
+    "id": "alert-003",
+    "ruleName": "Environmental Compliance Breach",
+    "metric": "Environmental Compliance Score",
+    "condition": "LessThan",
+    "thresholdValue": 85,
+    "severity": "Critical",
+    "notificationMethod": "Email, SMS, Dashboard",
+    "recipients": ["environmental@mrc.gov.zm", "compliance@mrc.gov.zm", "director@mrc.gov.zm"],
+    "isActive": true,
+    "lastTriggered": null,
+    "triggerCount": 0,
+    "createdBy": "Environmental Manager"
+  },
+  {
+    "id": "alert-004",
+    "ruleName": "Royalty Payment Overdue",
+    "metric": "Days Since Due Date",
+    "condition": "GreaterThan",
+    "thresholdValue": 7,
+    "severity": "High",
+    "notificationMethod": "Email",
+    "recipients": ["finance@mrc.gov.zm", "compliance@mrc.gov.zm"],
+    "isActive": true,
+    "lastTriggered": "2026-02-05T09:00:00",
+    "triggerCount": 3,
+    "createdBy": "Finance Director"
+  }
+]

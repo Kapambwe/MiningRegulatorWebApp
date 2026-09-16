@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Johannesburg-Metal-Exchange)",
+    "Email": "admin@johannesburg-metal-exchange.org",
+    "Role": "Offtaker"
+  },
+  {
+    "DisplayName": "Staff User (Johannesburg-Metal-Exchange)",
+    "Email": "staff@johannesburg-metal-exchange.org",
+    "Role": "Offtaker"
+  }
+]

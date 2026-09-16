@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kpi-001",
+    "kpiName": "Total Mineral Production",
+    "category": "Production",
+    "currentValue": 125000,
+    "targetValue": 150000,
+    "previousValue": 118000,
+    "unit": "tonnes",
+    "performancePercentage": 83.33,
+    "trend": "Improving",
+    "status": "BelowTarget",
+    "measurementDate": "2026-02-15T00:00:00",
+    "owner": "Production Manager"
+  },
+  {
+    "id": "kpi-002",
+    "kpiName": "Safety Incident Rate",
+    "category": "Safety",
+    "currentValue": 2.3,
+    "targetValue": 1.5,
+    "previousValue": 2.8,
+    "unit": "per 200,000 hours",
+    "performancePercentage": 65.22,
+    "trend": "Improving",
+    "status": "BelowTarget",
+    "measurementDate": "2026-02-15T00:00:00",
+    "owner": "Safety Manager"
+  },
+  {
+    "id": "kpi-003",
+    "kpiName": "Environmental Compliance Score",
+    "category": "Environmental",
+    "currentValue": 92,
+    "targetValue": 95,
+    "previousValue": 90,
+    "unit": "%",
+    "performancePercentage": 96.84,
+    "trend": "Improving",
+    "status": "OnTarget",
+    "measurementDate": "2026-02-15T00:00:00",
+    "owner": "Environmental Manager"
+  },
+  {
+    "id": "kpi-004",
+    "kpiName": "Royalty Collection Rate",
+    "category": "Financial",
+    "currentValue": 98.5,
+    "targetValue": 100,
+    "previousValue": 97.2,
+    "unit": "%",
+    "performancePercentage": 98.5,
+    "trend": "Improving",
+    "status": "OnTarget",
+    "measurementDate": "2026-02-15T00:00:00",
+    "owner": "Finance Director"
+  },
+  {
+    "id": "kpi-005",
+    "kpiName": "License Processing Time",
+    "category": "Operational",
+    "currentValue": 25,
+    "targetValue": 30,
+    "previousValue": 28,
+    "unit": "days",
+    "performancePercentage": 120,
+    "trend": "Improving",
+    "status": "OnTarget",
+    "measurementDate": "2026-02-15T00:00:00",
+    "owner": "Licensing Director"
+  }
+]

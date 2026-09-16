@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pred-001",
+    "analysisType": "ProductionForecast",
+    "targetMetric": "Copper Production",
+    "forecastDate": "2026-03-15T00:00:00",
+    "predictedValue": 145000,
+    "confidenceInterval": 0.88,
+    "modelUsed": "ARIMA_TimeSeries_v1.2",
+    "modelAccuracy": 0.91,
+    "inputVariables": "Historical Production, Equipment Efficiency, Ore Grade, Weather Patterns",
+    "generatedDate": "2026-02-15T10:30:00",
+    "generatedBy": "AI Prediction Engine",
+    "recommendations": "Increase ore processing capacity by 10% to meet forecast demand"
+  },
+  {
+    "id": "pred-002",
+    "analysisType": "MaintenancePrediction",
+    "targetMetric": "Equipment Failure Risk",
+    "forecastDate": "2026-02-25T00:00:00",
+    "predictedValue": 0.35,
+    "confidenceInterval": 0.82,
+    "modelUsed": "RandomForest_Classifier_v2.0",
+    "modelAccuracy": 0.87,
+    "inputVariables": "Equipment Age, Usage Hours, Maintenance History, Vibration Data",
+    "generatedDate": "2026-02-15T11:00:00",
+    "generatedBy": "AI Prediction Engine",
+    "recommendations": "Schedule preventive maintenance for Haul Truck Fleet within 10 days"
+  },
+  {
+    "id": "pred-003",
+    "analysisType": "CostPrediction",
+    "targetMetric": "Operational Costs",
+    "forecastDate": "2026-04-01T00:00:00",
+    "predictedValue": 8500000,
+    "confidenceInterval": 0.85,
+    "modelUsed": "LinearRegression_v1.5",
+    "modelAccuracy": 0.89,
+    "inputVariables": "Fuel Prices, Labor Costs, Electricity Rates, Production Volume",
+    "generatedDate": "2026-02-15T12:00:00",
+    "generatedBy": "AI Prediction Engine",
+    "recommendations": "Optimize energy consumption during peak hours to reduce costs by 5%"
+  }
+]

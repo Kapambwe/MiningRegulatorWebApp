@@ -1,0 +1,16 @@
+﻿{
+  "Institution": "Johannesburg-Metal-Exchange",
+  "Type": "Mining Oftaker",
+  "Country": "south-africa",
+  "Permissions": [
+    "MRA.Access",
+    "MRA.Dashboard.View",
+    "Offtake.*",
+    "MRA.Production.View",
+    "MRA.Royalties.View",
+    "MRA.MineralTagging.View",
+    "MRA.MineralTagging.VerifyTags",
+    "MRA.Compliance.View",
+    "MRA.Reporting.ViewReports"
+]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Institution": "Francistown-Storage",
+  "Type": "Warehouse Company",
+  "Country": "botswana",
+  "Permissions": [
+    "MRA.Access",
+    "MRA.Dashboard.View",
+    "MRA.Offtake.View",
+    "MRA.Offtake.VerifyQuality",
+    "MRA.Production.View",
+    "MRA.MineralTagging.View",
+    "MRA.MineralTagging.ViewInventory",
+    "Warehouse.*",
+    "MRA.Safety.View",
+    "MRA.LocalContent.View",
+    "MRA.Reporting.ViewReports"
+]
+}

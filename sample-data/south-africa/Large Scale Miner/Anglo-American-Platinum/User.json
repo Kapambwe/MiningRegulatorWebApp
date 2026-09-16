@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Anglo-American-Platinum)",
+    "Email": "admin@anglo-american-platinum.org",
+    "Role": "Licensee"
+  },
+  {
+    "DisplayName": "Staff User (Anglo-American-Platinum)",
+    "Email": "staff@anglo-american-platinum.org",
+    "Role": "Licensee"
+  }
+]

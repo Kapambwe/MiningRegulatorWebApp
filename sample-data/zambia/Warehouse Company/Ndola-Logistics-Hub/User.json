@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Ndola-Logistics-Hub)",
+    "Email": "admin@ndola-logistics-hub.org",
+    "Role": "Warehouse"
+  },
+  {
+    "DisplayName": "Staff User (Ndola-Logistics-Hub)",
+    "Email": "staff@ndola-logistics-hub.org",
+    "Role": "Warehouse"
+  }
+]

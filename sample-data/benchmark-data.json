@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bm-001",
+    "benchmarkCategory": "Production Efficiency",
+    "metric": "Tonnes Per Employee",
+    "companyValue": 850,
+    "industryAverage": 920,
+    "topQuartile": 1100,
+    "bottomQuartile": 650,
+    "companyRanking": "BelowAverage",
+    "gap": -70,
+    "unit": "tonnes/employee/year",
+    "benchmarkDate": "2026-01-31T00:00:00",
+    "dataSource": "Industry Report 2025"
+  },
+  {
+    "id": "bm-002",
+    "benchmarkCategory": "Safety Performance",
+    "metric": "Lost Time Injury Frequency Rate",
+    "companyValue": 2.3,
+    "industryAverage": 1.8,
+    "topQuartile": 0.9,
+    "bottomQuartile": 3.5,
+    "companyRanking": "BelowAverage",
+    "gap": 0.5,
+    "unit": "per 1M hours",
+    "benchmarkDate": "2026-01-31T00:00:00",
+    "dataSource": "Mining Safety Council Report"
+  },
+  {
+    "id": "bm-003",
+    "benchmarkCategory": "Environmental Performance",
+    "metric": "Water Recycling Rate",
+    "companyValue": 78,
+    "industryAverage": 75,
+    "topQuartile": 85,
+    "bottomQuartile": 60,
+    "companyRanking": "AboveAverage",
+    "gap": 3,
+    "unit": "%",
+    "benchmarkDate": "2026-01-31T00:00:00",
+    "dataSource": "Environmental Best Practices Study"
+  },
+  {
+    "id": "bm-004",
+    "benchmarkCategory": "Financial Performance",
+    "metric": "Operating Cost Per Tonne",
+    "companyValue": 950,
+    "industryAverage": 880,
+    "topQuartile": 750,
+    "bottomQuartile": 1050,
+    "companyRanking": "BelowAverage",
+    "gap": 70,
+    "unit": "USD/tonne",
+    "benchmarkDate": "2026-01-31T00:00:00",
+    "dataSource": "Financial Performance Index"
+  }
+]

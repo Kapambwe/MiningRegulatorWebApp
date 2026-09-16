@@ -1,0 +1,12 @@
+﻿[
+  {
+    "DisplayName": "Admin User (Mpumalanga-Coal-Aggregators)",
+    "Email": "admin@mpumalanga-coal-aggregators.org",
+    "Role": "Aggregator"
+  },
+  {
+    "DisplayName": "Staff User (Mpumalanga-Coal-Aggregators)",
+    "Email": "staff@mpumalanga-coal-aggregators.org",
+    "Role": "Aggregator"
+  }
+]

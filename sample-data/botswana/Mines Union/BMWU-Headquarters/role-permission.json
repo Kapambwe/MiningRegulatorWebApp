@@ -1,0 +1,20 @@
+﻿{
+  "Institution": "BMWU-Headquarters",
+  "Type": "Mines Union",
+  "Country": "botswana",
+  "Permissions": [
+    "MRA.Access",
+    "MRA.Dashboard.View",
+    "Union.*",
+    "MRA.Workforce.View",
+    "MRA.Workforce.ViewSkills",
+    "MRA.Workforce.ManageTraining",
+    "MRA.Safety.View",
+    "MRA.Safety.ViewIncidents",
+    "MRA.Safety.ViewAccidents",
+    "MRA.Compliance.View",
+    "MRA.LocalContent.View",
+    "MRA.LocalContent.ViewEmployment",
+    "MRA.Reporting.ViewReports"
+]
+}
